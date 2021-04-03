@@ -1,11 +1,6 @@
-
 import presentacion.Modelo;
-
-
-
-
 public class Launcher {
-    //atributos
+    //Atributos
     private Modelo miApp;
     
     //Metodos
@@ -17,5 +12,4 @@ public class Launcher {
     public static void main(String[] args) {
         new Launcher();
     }
-
 }
